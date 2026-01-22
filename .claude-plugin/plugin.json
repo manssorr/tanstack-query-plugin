@@ -1,7 +1,7 @@
 {
   "name": "tanstack-query",
   "description": "TanStack Query (React Query) expert patterns for React Native/Expo. Based on TkDodo's authoritative 'Practical React Query' blog series.",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "author": {
     "name": "koura"
   },
