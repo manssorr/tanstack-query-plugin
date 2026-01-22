@@ -1,0 +1,21 @@
+{
+  "name": "tanstack-query",
+  "description": "TanStack Query (React Query) expert patterns for React Native/Expo. Based on TkDodo's authoritative 'Practical React Query' blog series.",
+  "version": "2.0.0",
+  "author": {
+    "name": "koura"
+  },
+  "repository": "https://github.com/manssorr/tanstack-query-plugin",
+  "homepage": "https://github.com/manssorr/tanstack-query-plugin",
+  "license": "MIT",
+  "keywords": [
+    "tanstack-query",
+    "react-query",
+    "react-native",
+    "expo",
+    "data-fetching",
+    "cache",
+    "mutations",
+    "offline"
+  ]
+}
