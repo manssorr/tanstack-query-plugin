@@ -1,8 +1,10 @@
 # TanStack Query Plugin for Claude Code
 
-Expert-level TanStack Query (React Query) patterns for React Native and Expo applications.
+Expert-level TanStack Query (React Query) patterns and official API documentation.
 
-Based on **TkDodo's** authoritative "Practical React Query" blog series. TkDodo is a core maintainer of TanStack Query.
+**Two skills included:**
+1. **Patterns Skill** - TkDodo's "Practical React Query" best practices (975 lines)
+2. **Docs Skill** - Official v5 API reference (450+ lines)
 
 ## Installation
 
@@ -20,7 +22,9 @@ Based on **TkDodo's** authoritative "Practical React Query" blog series. TkDodo 
 
 ## What's Included
 
-### Skill (975 lines of expert patterns)
+### Skill 1: Patterns (975 lines)
+
+Based on TkDodo's "Practical React Query" blog series.
 
 | Topic | Coverage |
 |-------|----------|
@@ -34,6 +38,21 @@ Based on **TkDodo's** authoritative "Practical React Query" blog series. TkDodo 
 | **Testing** | MSW setup, test utilities |
 | **Forms** | Component split pattern |
 | **Decision Trees** | When to use which pattern |
+
+### Skill 2: API Docs (450+ lines)
+
+Official TanStack Query v5 API reference.
+
+| Topic | Coverage |
+|-------|----------|
+| **useQuery** | All options, return values, examples |
+| **useMutation** | Lifecycle callbacks, per-call options |
+| **useInfiniteQuery** | Pagination, cursor-based fetching |
+| **QueryClient** | invalidateQueries, setQueryData, prefetchQuery |
+| **Optimistic Updates** | Full pattern with rollback |
+| **TypeScript** | Typed queries, mutations, context |
+| **Network Mode** | online, always, offlineFirst |
+| **Global Callbacks** | QueryCache, MutationCache handlers |
 
 ### TkDodo Author Insights
 
